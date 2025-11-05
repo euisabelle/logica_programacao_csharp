@@ -1,0 +1,14 @@
+C:\Users\isabelle.fmelo\source\repos\ExAula3\obj\Debug\net8.0\ExAula3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isabelle.fmelo\source\repos\ExAula3\obj\Debug\net8.0\ExAula3.AssemblyInfoInputs.cache
+C:\Users\isabelle.fmelo\source\repos\ExAula3\obj\Debug\net8.0\ExAula3.AssemblyInfo.cs
+C:\Users\isabelle.fmelo\source\repos\ExAula3\obj\Debug\net8.0\ExAula3.csproj.CoreCompileInputs.cache
+C:\Users\isabelle.fmelo\source\repos\ExAula3\bin\Debug\net8.0\ExAula3.exe
+C:\Users\isabelle.fmelo\source\repos\ExAula3\bin\Debug\net8.0\ExAula3.deps.json
+C:\Users\isabelle.fmelo\source\repos\ExAula3\bin\Debug\net8.0\ExAula3.runtimeconfig.json
+C:\Users\isabelle.fmelo\source\repos\ExAula3\bin\Debug\net8.0\ExAula3.dll
+C:\Users\isabelle.fmelo\source\repos\ExAula3\bin\Debug\net8.0\ExAula3.pdb
+C:\Users\isabelle.fmelo\source\repos\ExAula3\obj\Debug\net8.0\ExAula3.dll
+C:\Users\isabelle.fmelo\source\repos\ExAula3\obj\Debug\net8.0\refint\ExAula3.dll
+C:\Users\isabelle.fmelo\source\repos\ExAula3\obj\Debug\net8.0\ExAula3.pdb
+C:\Users\isabelle.fmelo\source\repos\ExAula3\obj\Debug\net8.0\ExAula3.genruntimeconfig.cache
+C:\Users\isabelle.fmelo\source\repos\ExAula3\obj\Debug\net8.0\ref\ExAula3.dll

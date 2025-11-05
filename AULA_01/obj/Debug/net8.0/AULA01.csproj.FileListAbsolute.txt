@@ -1,0 +1,14 @@
+C:\Users\isabelle.fmelo\source\repos\AULA01\bin\Debug\net8.0\AULA01.exe
+C:\Users\isabelle.fmelo\source\repos\AULA01\bin\Debug\net8.0\AULA01.deps.json
+C:\Users\isabelle.fmelo\source\repos\AULA01\bin\Debug\net8.0\AULA01.runtimeconfig.json
+C:\Users\isabelle.fmelo\source\repos\AULA01\bin\Debug\net8.0\AULA01.dll
+C:\Users\isabelle.fmelo\source\repos\AULA01\bin\Debug\net8.0\AULA01.pdb
+C:\Users\isabelle.fmelo\source\repos\AULA01\obj\Debug\net8.0\AULA01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isabelle.fmelo\source\repos\AULA01\obj\Debug\net8.0\AULA01.AssemblyInfoInputs.cache
+C:\Users\isabelle.fmelo\source\repos\AULA01\obj\Debug\net8.0\AULA01.AssemblyInfo.cs
+C:\Users\isabelle.fmelo\source\repos\AULA01\obj\Debug\net8.0\AULA01.csproj.CoreCompileInputs.cache
+C:\Users\isabelle.fmelo\source\repos\AULA01\obj\Debug\net8.0\AULA01.dll
+C:\Users\isabelle.fmelo\source\repos\AULA01\obj\Debug\net8.0\refint\AULA01.dll
+C:\Users\isabelle.fmelo\source\repos\AULA01\obj\Debug\net8.0\AULA01.pdb
+C:\Users\isabelle.fmelo\source\repos\AULA01\obj\Debug\net8.0\AULA01.genruntimeconfig.cache
+C:\Users\isabelle.fmelo\source\repos\AULA01\obj\Debug\net8.0\ref\AULA01.dll
