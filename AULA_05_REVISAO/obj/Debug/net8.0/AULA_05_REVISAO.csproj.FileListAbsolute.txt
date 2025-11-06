@@ -1,0 +1,15 @@
+C:\Users\isabelle.fmelo\source\repos\AULA_05_REVISAO\bin\Debug\net8.0\AULA_05_REVISAO.exe
+C:\Users\isabelle.fmelo\source\repos\AULA_05_REVISAO\bin\Debug\net8.0\AULA_05_REVISAO.deps.json
+C:\Users\isabelle.fmelo\source\repos\AULA_05_REVISAO\bin\Debug\net8.0\AULA_05_REVISAO.runtimeconfig.json
+C:\Users\isabelle.fmelo\source\repos\AULA_05_REVISAO\bin\Debug\net8.0\AULA_05_REVISAO.dll
+C:\Users\isabelle.fmelo\source\repos\AULA_05_REVISAO\bin\Debug\net8.0\AULA_05_REVISAO.pdb
+C:\Users\isabelle.fmelo\source\repos\AULA_05_REVISAO\obj\Debug\net8.0\AULA_05_REVISAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isabelle.fmelo\source\repos\AULA_05_REVISAO\obj\Debug\net8.0\AULA_05_REVISAO.AssemblyInfoInputs.cache
+C:\Users\isabelle.fmelo\source\repos\AULA_05_REVISAO\obj\Debug\net8.0\AULA_05_REVISAO.AssemblyInfo.cs
+C:\Users\isabelle.fmelo\source\repos\AULA_05_REVISAO\obj\Debug\net8.0\AULA_05_REVISAO.csproj.CoreCompileInputs.cache
+C:\Users\isabelle.fmelo\source\repos\AULA_05_REVISAO\obj\Debug\net8.0\AULA_05_REVISAO.sourcelink.json
+C:\Users\isabelle.fmelo\source\repos\AULA_05_REVISAO\obj\Debug\net8.0\AULA_05_REVISAO.dll
+C:\Users\isabelle.fmelo\source\repos\AULA_05_REVISAO\obj\Debug\net8.0\refint\AULA_05_REVISAO.dll
+C:\Users\isabelle.fmelo\source\repos\AULA_05_REVISAO\obj\Debug\net8.0\AULA_05_REVISAO.pdb
+C:\Users\isabelle.fmelo\source\repos\AULA_05_REVISAO\obj\Debug\net8.0\AULA_05_REVISAO.genruntimeconfig.cache
+C:\Users\isabelle.fmelo\source\repos\AULA_05_REVISAO\obj\Debug\net8.0\ref\AULA_05_REVISAO.dll
