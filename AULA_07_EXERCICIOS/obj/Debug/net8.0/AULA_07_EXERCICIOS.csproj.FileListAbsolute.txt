@@ -1,0 +1,15 @@
+C:\Users\isabelle.fmelo\source\repos\AULA_07_EXERCICIOS\obj\Debug\net8.0\AULA_07_EXERCICIOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isabelle.fmelo\source\repos\AULA_07_EXERCICIOS\obj\Debug\net8.0\AULA_07_EXERCICIOS.AssemblyInfoInputs.cache
+C:\Users\isabelle.fmelo\source\repos\AULA_07_EXERCICIOS\obj\Debug\net8.0\AULA_07_EXERCICIOS.AssemblyInfo.cs
+C:\Users\isabelle.fmelo\source\repos\AULA_07_EXERCICIOS\obj\Debug\net8.0\AULA_07_EXERCICIOS.csproj.CoreCompileInputs.cache
+C:\Users\isabelle.fmelo\source\repos\AULA_07_EXERCICIOS\obj\Debug\net8.0\AULA_07_EXERCICIOS.sourcelink.json
+C:\Users\isabelle.fmelo\source\repos\AULA_07_EXERCICIOS\bin\Debug\net8.0\AULA_07_EXERCICIOS.exe
+C:\Users\isabelle.fmelo\source\repos\AULA_07_EXERCICIOS\bin\Debug\net8.0\AULA_07_EXERCICIOS.deps.json
+C:\Users\isabelle.fmelo\source\repos\AULA_07_EXERCICIOS\bin\Debug\net8.0\AULA_07_EXERCICIOS.runtimeconfig.json
+C:\Users\isabelle.fmelo\source\repos\AULA_07_EXERCICIOS\bin\Debug\net8.0\AULA_07_EXERCICIOS.dll
+C:\Users\isabelle.fmelo\source\repos\AULA_07_EXERCICIOS\bin\Debug\net8.0\AULA_07_EXERCICIOS.pdb
+C:\Users\isabelle.fmelo\source\repos\AULA_07_EXERCICIOS\obj\Debug\net8.0\AULA_07_EXERCICIOS.dll
+C:\Users\isabelle.fmelo\source\repos\AULA_07_EXERCICIOS\obj\Debug\net8.0\refint\AULA_07_EXERCICIOS.dll
+C:\Users\isabelle.fmelo\source\repos\AULA_07_EXERCICIOS\obj\Debug\net8.0\AULA_07_EXERCICIOS.pdb
+C:\Users\isabelle.fmelo\source\repos\AULA_07_EXERCICIOS\obj\Debug\net8.0\AULA_07_EXERCICIOS.genruntimeconfig.cache
+C:\Users\isabelle.fmelo\source\repos\AULA_07_EXERCICIOS\obj\Debug\net8.0\ref\AULA_07_EXERCICIOS.dll
