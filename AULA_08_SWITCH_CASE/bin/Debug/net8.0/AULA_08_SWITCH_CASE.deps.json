@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AULA_08_SWITCH_CASE/1.0.0": {
+        "runtime": {
+          "AULA_08_SWITCH_CASE.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AULA_08_SWITCH_CASE/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

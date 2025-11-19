@@ -1,0 +1,15 @@
+C:\Users\isabelle.fmelo\source\repos\AULA_08_SWITCH_CASE\bin\Debug\net8.0\AULA_08_SWITCH_CASE.exe
+C:\Users\isabelle.fmelo\source\repos\AULA_08_SWITCH_CASE\bin\Debug\net8.0\AULA_08_SWITCH_CASE.deps.json
+C:\Users\isabelle.fmelo\source\repos\AULA_08_SWITCH_CASE\bin\Debug\net8.0\AULA_08_SWITCH_CASE.runtimeconfig.json
+C:\Users\isabelle.fmelo\source\repos\AULA_08_SWITCH_CASE\bin\Debug\net8.0\AULA_08_SWITCH_CASE.dll
+C:\Users\isabelle.fmelo\source\repos\AULA_08_SWITCH_CASE\bin\Debug\net8.0\AULA_08_SWITCH_CASE.pdb
+C:\Users\isabelle.fmelo\source\repos\AULA_08_SWITCH_CASE\obj\Debug\net8.0\AULA_08_SWITCH_CASE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isabelle.fmelo\source\repos\AULA_08_SWITCH_CASE\obj\Debug\net8.0\AULA_08_SWITCH_CASE.AssemblyInfoInputs.cache
+C:\Users\isabelle.fmelo\source\repos\AULA_08_SWITCH_CASE\obj\Debug\net8.0\AULA_08_SWITCH_CASE.AssemblyInfo.cs
+C:\Users\isabelle.fmelo\source\repos\AULA_08_SWITCH_CASE\obj\Debug\net8.0\AULA_08_SWITCH_CASE.csproj.CoreCompileInputs.cache
+C:\Users\isabelle.fmelo\source\repos\AULA_08_SWITCH_CASE\obj\Debug\net8.0\AULA_08_SWITCH_CASE.sourcelink.json
+C:\Users\isabelle.fmelo\source\repos\AULA_08_SWITCH_CASE\obj\Debug\net8.0\AULA_08_SWITCH_CASE.dll
+C:\Users\isabelle.fmelo\source\repos\AULA_08_SWITCH_CASE\obj\Debug\net8.0\refint\AULA_08_SWITCH_CASE.dll
+C:\Users\isabelle.fmelo\source\repos\AULA_08_SWITCH_CASE\obj\Debug\net8.0\AULA_08_SWITCH_CASE.pdb
+C:\Users\isabelle.fmelo\source\repos\AULA_08_SWITCH_CASE\obj\Debug\net8.0\AULA_08_SWITCH_CASE.genruntimeconfig.cache
+C:\Users\isabelle.fmelo\source\repos\AULA_08_SWITCH_CASE\obj\Debug\net8.0\ref\AULA_08_SWITCH_CASE.dll

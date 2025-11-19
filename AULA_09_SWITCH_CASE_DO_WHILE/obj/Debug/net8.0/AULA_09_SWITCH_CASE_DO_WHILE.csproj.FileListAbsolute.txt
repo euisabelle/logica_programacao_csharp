@@ -1,0 +1,15 @@
+C:\Users\isabelle.fmelo\source\repos\AULA_09_SWITCH_CASE_DO_WHILE\bin\Debug\net8.0\AULA_09_SWITCH_CASE_DO_WHILE.exe
+C:\Users\isabelle.fmelo\source\repos\AULA_09_SWITCH_CASE_DO_WHILE\bin\Debug\net8.0\AULA_09_SWITCH_CASE_DO_WHILE.deps.json
+C:\Users\isabelle.fmelo\source\repos\AULA_09_SWITCH_CASE_DO_WHILE\bin\Debug\net8.0\AULA_09_SWITCH_CASE_DO_WHILE.runtimeconfig.json
+C:\Users\isabelle.fmelo\source\repos\AULA_09_SWITCH_CASE_DO_WHILE\bin\Debug\net8.0\AULA_09_SWITCH_CASE_DO_WHILE.dll
+C:\Users\isabelle.fmelo\source\repos\AULA_09_SWITCH_CASE_DO_WHILE\bin\Debug\net8.0\AULA_09_SWITCH_CASE_DO_WHILE.pdb
+C:\Users\isabelle.fmelo\source\repos\AULA_09_SWITCH_CASE_DO_WHILE\obj\Debug\net8.0\AULA_09_SWITCH_CASE_DO_WHILE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isabelle.fmelo\source\repos\AULA_09_SWITCH_CASE_DO_WHILE\obj\Debug\net8.0\AULA_09_SWITCH_CASE_DO_WHILE.AssemblyInfoInputs.cache
+C:\Users\isabelle.fmelo\source\repos\AULA_09_SWITCH_CASE_DO_WHILE\obj\Debug\net8.0\AULA_09_SWITCH_CASE_DO_WHILE.AssemblyInfo.cs
+C:\Users\isabelle.fmelo\source\repos\AULA_09_SWITCH_CASE_DO_WHILE\obj\Debug\net8.0\AULA_09_SWITCH_CASE_DO_WHILE.csproj.CoreCompileInputs.cache
+C:\Users\isabelle.fmelo\source\repos\AULA_09_SWITCH_CASE_DO_WHILE\obj\Debug\net8.0\AULA_09_SWITCH_CASE_DO_WHILE.sourcelink.json
+C:\Users\isabelle.fmelo\source\repos\AULA_09_SWITCH_CASE_DO_WHILE\obj\Debug\net8.0\AULA_09_SWITCH_CASE_DO_WHILE.dll
+C:\Users\isabelle.fmelo\source\repos\AULA_09_SWITCH_CASE_DO_WHILE\obj\Debug\net8.0\refint\AULA_09_SWITCH_CASE_DO_WHILE.dll
+C:\Users\isabelle.fmelo\source\repos\AULA_09_SWITCH_CASE_DO_WHILE\obj\Debug\net8.0\AULA_09_SWITCH_CASE_DO_WHILE.pdb
+C:\Users\isabelle.fmelo\source\repos\AULA_09_SWITCH_CASE_DO_WHILE\obj\Debug\net8.0\AULA_09_SWITCH_CASE_DO_WHILE.genruntimeconfig.cache
+C:\Users\isabelle.fmelo\source\repos\AULA_09_SWITCH_CASE_DO_WHILE\obj\Debug\net8.0\ref\AULA_09_SWITCH_CASE_DO_WHILE.dll
